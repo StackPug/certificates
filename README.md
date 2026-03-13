@@ -8,7 +8,8 @@ This repository contains certificates I have earned while learning web developme
 
 ![Responsive Web Design Certificate](Legacy-responsive-web-design-V8.png)
 
-
+## Responsive Web Design - freeCodeCamp
+![Responsive Web Design Certificate](responsive-web-design-certificate.png)
 
 ## In Progress
-- freeCodeCamp Responsive Web Design
+- freeCodeCamp Javascript
